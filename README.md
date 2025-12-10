@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI Business Automation Specialist | Building AI-powered business automation solutions with n8n, Make.com & OpenRouter | Ex-Pakistan Navy Supply Chain Officer�
 
 <!--
 **ikarmah1995/ikarmah1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

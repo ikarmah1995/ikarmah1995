@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm Ikarmah 👋</h1>
 
 <p align="center">
-  <strong>Co-founder & Automation Specialist @ MA4 Ltd</strong><br>
+  <strong>AI Business Automation Specialist @ MA4 Ltd</strong><br>
   <em>Former Pakistan Navy Officer | Supply Chain → AI Automation</em>
 </p>
 

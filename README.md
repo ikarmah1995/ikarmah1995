@@ -1,16 +1,124 @@
-## AI Business Automation Specialist | Building AI-powered business automation solutions with n8n, Make.com & OpenRouter | Ex-Pakistan Navy Supply Chain Officer
+<p align="center">
+  <img src="IkarmahBanner.png" alt="Ikarmah Warraich - Automation Specialist"/>
+</p>
 
-<!--
-**ikarmah1995/ikarmah1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there! I'm Ikarmah 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Co-founder & Automation Specialist @ MA4 Ltd</strong><br>
+  <em>Former Pakistan Navy Officer | Supply Chain → AI Automation</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadikarmah@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ma4.uk"><img src="https://img.shields.io/badge/MA4_Ltd-Website-00C853?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I spent **6 years as a Pakistan Navy Supply Chain Officer**, managing 45,000+ SKUs, leading teams, and making data-driven decisions under pressure. That experience taught me something crucial:
+
+> *"80% of automation failures stem from poor data quality. Clean and structure your data FIRST, then automate."*
+
+Now I build **AI-powered automation solutions** that help businesses eliminate repetitive tasks, maintain consistency, and scale operations — all grounded in real operational experience.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Sheets"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ikarmah1995/talkdata-ai">
+        <img src="https://img.shields.io/badge/💬_TalkData_AI-RAG_Assistant-d4a84b?style=for-the-badge" alt="TalkData AI"/>
+      </a>
+      <br><br>
+      <strong>Chat with your company data</strong><br>
+      <sub>SOPs • Policies • Correspondence Rules</sub><br><br>
+      <code>n8n</code> <code>Gemini</code> <code>GPT-4o</code> <code>RAG</code>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ikarmah1995/hirewise-ai">
+        <img src="https://img.shields.io/badge/📄_HireWise_AI-Resume_Screening-4ECDC4?style=for-the-badge" alt="HireWise AI"/>
+      </a>
+      <br><br>
+      <strong>AI-powered candidate analysis</strong><br>
+      <sub>Scoring • Risk Assessment • PDF Reports</sub><br><br>
+      <code>n8n</code> <code>OpenRouter</code> <code>GPT-4o</code>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ikarmah1995/brandforge-ai">
+        <img src="https://img.shields.io/badge/🎨_BrandForge_AI-Image_Transform-FF6B6B?style=for-the-badge" alt="BrandForge AI"/>
+      </a>
+      <br><br>
+      <strong>AI-powered branded visuals</strong><br>
+      <sub>Double Exposure • Brand Consistency</sub><br><br>
+      <code>n8n</code> <code>Gemini</code> <code>Google Drive</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| 🎓 Google Data Analytics | Google | 2025 |
+| 🤖 Make.com AI Agents & Automation (Advanced) | Make.com | 2025 |
+| ⚓ Advanced Naval Supply Chain Management | Pakistan Navy | 2020 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikarmah1995&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikarmah1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Building something that needs automation? Let's talk.
+
+<p align="center">
+  <a href="https://linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadikarmah@yahoo.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <em>"Stop doing repetitive tasks. Let AI handle it."</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikarmah1995&style=flat-square&color=blue" alt="Profile Views"/>
+</p>

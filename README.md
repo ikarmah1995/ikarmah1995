@@ -5,14 +5,12 @@
 <h1 align="center">Hey there! I'm Ikarmah 👋</h1>
 
 <p align="center">
-  <strong>AI Business Automation Specialist @ MA4 Ltd</strong><br>
+  <strong>Co-founder & Automation Specialist @ MA4 Ltd</strong><br>
   <em>Former Pakistan Navy Officer | Supply Chain → AI Automation</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohammadikarmah@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://ma4.uk"><img src="https://img.shields.io/badge/MA4_Ltd-Website-00C853?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -95,22 +93,12 @@ Now I build **AI-powered automation solutions** that help businesses eliminate r
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikarmah1995&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikarmah1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 Building something that needs automation? Let's talk.
 
 <p align="center">
-  <a href="https://linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohammadikarmah@yahoo.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ikarmah"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
